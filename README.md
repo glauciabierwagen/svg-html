@@ -1,4 +1,4 @@
-# SVG
+# SVG HTML
 <b> Course IT Women - Front End </b> 
 
 ## Guidelines
